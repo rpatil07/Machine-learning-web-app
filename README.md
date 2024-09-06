@@ -1,4 +1,6 @@
-# Developing a simple machine learning web app to perform multiclass classification to determine the student drop out rate
+# Developing a simple machine learning web app to perform multiclass classification to determine the student dropout rate
+
+##Dataset Information
 
 ###Marital Status
 
